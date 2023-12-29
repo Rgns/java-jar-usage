@@ -26,5 +26,5 @@
 # java jar running with external jar
 - java -cp jarName1.jar:jarName2.jar MyMainComponent
 
-- # java jar running with multiple external jars
+# java jar running with multiple external jars
 - java -cp jarName1.jar:lib/* MyMainComponent
